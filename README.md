@@ -10,15 +10,15 @@ You can check out the live version [here] (https://guideme-2016.herokuapp.com/).
 
 ![signup] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/signup.gif)
 
-User signup.
+## User signup.
 
 ![search] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/search.gif)
 
-Searching cities and find the guide.
+## Searching cities and find a guide.
 
 ![chat] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/chat.gif)
 
-Chat feature.
+## Chat feature.
 
 ## Getting Started
 
