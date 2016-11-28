@@ -12,7 +12,7 @@ You can check out the live version [here] (https://guideme-2016.herokuapp.com/).
 
 ![signup] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/signup.gif)
 
-## Searching cities and find a guide
+## Searching cities and booking a guide
 
 ![search] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/search.gif)
 
