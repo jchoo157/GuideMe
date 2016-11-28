@@ -4,7 +4,7 @@ Have you ever thought it would be nice to book your guide before you visit somew
 
 You are in the right spot!
 
-GuideMe is a Ruby on Rails application built in a two weeks for travelers who would like to find a guide in a specific city. It's meant for an easy way for travelers to book a guide and communicate with them instantly. In addition to being the team lead, my role in this project was front-end developer. We've implemented various API's including Google Maps, Stripe, Yelp, PixaBay and unslash.
+GuideMe is a Ruby on Rails application built in eight days for travelers who would like to find a guide in a specific city. It's meant for an easy way for travelers to book a guide and communicate with them instantly. My role in this project was a full stack developer. We've implemented various API's including Google Maps, Stripe, Yelp, and PixaBay.
 
 You can check out the live version [here] (https://guideme-2016.herokuapp.com/).
 
