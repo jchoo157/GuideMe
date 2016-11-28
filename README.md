@@ -8,17 +8,17 @@ GuideMe is a Ruby on Rails application built in eight days for travelers who wou
 
 You can check out the live version [here] (https://guideme-2016.herokuapp.com/).
 
+## User signup
+
 ![signup] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/signup.gif)
 
-## User signup.
+## Searching cities and find a guide
 
 ![search] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/search.gif)
 
-## Searching cities and find a guide.
+## Chat feature
 
 ![chat] (https://github.com/erinc35/GuideMe/blob/development/app/assets/images/chat.gif)
-
-## Chat feature.
 
 ## Getting Started
 
