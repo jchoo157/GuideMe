@@ -78,7 +78,3 @@ gmail-like-chat-application-in-ruby-on-rails
 * **Angelica Pilarca** - [Github](https://github.com/APilarca)
 * **Hakim Joseph** - [Github](https://github.com/HakimJoseph)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
